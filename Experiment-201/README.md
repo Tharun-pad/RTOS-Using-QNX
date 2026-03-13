@@ -125,6 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
+<img width="1895" height="327" alt="image" src="https://github.com/user-attachments/assets/9abe6fd0-0b9d-4dce-97d6-a49f9892f839" />
 
 ---
 
