@@ -9,7 +9,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 ---
 
-## Hardware Requirements  
+## Hardware Requirements
 
 ### For VMware Setup
 - Host PC / Laptop (Intel/AMD processor)
@@ -53,15 +53,22 @@ int main(void) {
 	puts("NAME: THARUN P");
 	puts("REG NO.: 212223060289");
 	return EXIT_SUCCESS;
+    printf("Hello World!!!\n");
+    printf("Name:Arun\n");
+    printf("Regisgter Number:1234567\n");
+    return 0;
 }
 
 ```
 ## Output
 <img width="1435" height="219" alt="image" src="https://github.com/user-attachments/assets/135dac3b-3d92-41f9-b9ec-c18f9fcd2ea2" />
 
+![Output Image](exp1.png)
 ---
 
 ## Result
 Thus, a simple Hello World application was successfully developed, compiled, and executed on the QNX operating system using both VMware virtual machine and Raspberry Pi hardware targets.
 
 ---
+
+

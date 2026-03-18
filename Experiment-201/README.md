@@ -2,7 +2,7 @@
 
 ## Aim
 
-Write a program to implement **process creation using fork() in QNX/Linux** and observe the behavior of **parent and child processes** when the parent terminates.
+Write a C program to implement **process creation using fork() in QNX/Linux** and observe the behavior of **parent and child processes** when the parent terminates.
 
 ---
 
