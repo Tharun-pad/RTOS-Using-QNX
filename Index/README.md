@@ -22,11 +22,9 @@
 I confirm that the experiments and GitHub Links provided are entirely my own work.
 
 **Name: THARUN P**  
-<p align="right">
-<b>Register Number: 212223060289 
+<p align="right"> <b>Register Number: 212223060289 
 </p>
 
 **Date:**
-<p align="right">
-<b>Learner Signature:  
+<p align="right"> <b>Learner Signature:  
 </p>
