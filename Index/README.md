@@ -23,10 +23,10 @@ I confirm that the experiments and GitHub Links provided are entirely my own wor
 
 **Name: THARUN P**  
 <p align="right">
-    <b>Register Number: 212223060289 
+<b>Register Number: 212223060289 
 </p>
 
 **Date:**
 <p align="right">
-    <b>Learner Signature:  
+<b>Learner Signature:  
 </p>
